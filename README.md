@@ -1,6 +1,6 @@
 <MainFeatures>
 Encode and decode String, URL and file using four algorithms:
-Base64<—using apache base64 API
+Base64< —using apache base64 API
 RunLength, Huffman and Lempel Ziv LZ78 <— all codes are write by myself.
 
 =============================if you are using Linux=========================
@@ -23,7 +23,7 @@ you should copy “encode” folder if you want to move the dir of jar
 add the encoder.jar to your Java class path.
 export CLASSPATH=.:${Path to encode}/encoder.jar
 
-<<All methods returns string. You should export them to a file or post them by your self.>
+<All methods returns string. You should export them to a file or post them by your self.>
 
 you can use the api by follow command
 
