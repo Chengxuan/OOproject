@@ -1,6 +1,4 @@
-Please choose Raw to view this readme
 
- 
 <MainFeatures> 
 
 Encode and decode String, URL and file using four algorithms: 
