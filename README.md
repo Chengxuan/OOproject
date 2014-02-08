@@ -6,13 +6,13 @@ RunLength, Huffman and Lempel Ziv LZ78 <— all codes are write by myself.
 =============================if you are using Linux=========================
 Use run.sh to check my work.
 
-$> cd to “G00295429” directory
+$> cd to directory
 $> sh run.sh $ANT_HOME (your ant home)
 
 ============================================================================
 
 <Compile the Code>
-cd to the “G00295429” folder, do ant in terminal
+cd to the folder, do ant in terminal
 OR cd to “src” subfolder, do ant in terminal
 <- - - - - - -Don’t move the build.xml between different folder— - - - - - - - ->
 $>export PATH=$PATH:$ANT_HOME/bin/
