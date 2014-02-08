@@ -1,5 +1,4 @@
-
-<MainFeatures> 
+<----MainFeatures----> 
 
 Encode and decode String, URL and file using four algorithms: 
 
@@ -21,7 +20,7 @@ $> sh run.sh $ANT_HOME (your ant home)
 ============================================================================ 
 
 
-<Compile the Code> 
+<----Compile the Code----> 
 
 cd to the folder, do ant in terminal 
 
@@ -34,7 +33,7 @@ $>export PATH=$PATH:$ANT_HOME/bin/
 $>ant  
 
  
-<Using the API> 
+<----Using the API----> 
 
 you should copy “encode” folder if you want to move the dir of jar 
 
@@ -43,7 +42,7 @@ add the encoder.jar to your Java class path.
 export CLASSPATH=.:${Path to encode}/encoder.jar 
 
  
-<All methods returns string. You should export them to a file or post them by your self.> 
+<----All methods returns string. You should export them to a file or post them by your self.----> 
 
  
 you can use the api by follow command 
